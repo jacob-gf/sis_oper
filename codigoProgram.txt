@@ -2,3 +2,4 @@
 0 20 * * 1-4 sh /home/jacobh/sistemas_operativos/codigo/gitpush.sh
 30 17 * * 5 sh /home/jacobh/sistemas_operativos/codigo/gitpush.sh
 
+
